@@ -38,7 +38,7 @@ grip.lift(label)
 root.after(3000,lambda:root.destroy())
 root.mainloop()
 
-path = r'C:\Users\User\PycharmProjects\pythonProject\main\tiffany\rishi data'
+path = r'C:\Users\User\PycharmProjects\pythonProject\main\tiffany\kaustubh data'
 image = []
 classn = []
 mlist = os.listdir(path)
